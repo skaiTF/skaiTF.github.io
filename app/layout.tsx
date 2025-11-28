@@ -8,7 +8,7 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-    title: "Portfolio",
+    title: "skaiTF",
     description: "portfolio website",
 };
 
